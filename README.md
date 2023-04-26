@@ -10,6 +10,7 @@ This data was pulled from the US Energy Administration and joined together for a
 
 Feature Descriptions and Data Types:
 
+
 • Country: Country in question (String) 
 
 • Energy_type: Type of energy source (String) 
