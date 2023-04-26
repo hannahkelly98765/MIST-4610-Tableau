@@ -1,8 +1,10 @@
 # CO2 Emissions
 # 21479_8 Members
-• Hannah Kelly
+• [Hannah Kelly](https://github.com/hannahkelly98765/MIST-4610-Tableau)
 
 • [Emma Dolson](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject2)
+
+
 
 #Dataset
 
