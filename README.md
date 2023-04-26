@@ -4,32 +4,19 @@
 
 • [Emma Dolson](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject2)
 
+• [Donovan Vanderpool](https://github.com/donovanv2/MIST4610Project2)
+
+• [Shir Kochi](https://github.com/shirkorchi/MIST4610-Project2)
+
+• [Kaden Williams](https://github.com/kadenwilliams1/MIST4610Project2)
+
 # Dataset
 
 This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into C02 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
 
 Feature Descriptions and Data Types:
 
-
-• Country: Country in question (String) 
-
-• Energy_type: Type of energy source (String) 
-
-• Year: Year the data was recorded (DATE) 
-
-• Energy_consumption: Amount of Consumption for the specific energy source, measured (quad Btu = 10¹⁵ British thermal unit) (Decimal) 
-
-• Energy_production: Amount of Production for the specific energy source, measured (quad Btu) (Decimal) 
-
-• GDP: Countries GDP at purchasing power parities, measured (Billion 2015$ PPP) (Decimal) 
-
-• Population: Population of specific Country, measured (Mperson) (Decimal) 
-
-• Energy_intensity_per_capita: Energy intensity is a measure of the energy inefficiency of an economy (MMBtu/person) (Decimal) 
-
-• Energy_intensity_by_GDP: Energy intensity is a measure of the energy inefficiency of an economy (1000 Btu/2015$ GDP PPP) (Decimal) 
-
-• CO2_emission: The amount of C02 emitted, measured (MMtonnes CO2) (Decimal) 
+<img width="649" alt="Screenshot 2023-04-26 at 11 40 50 AM" src="https://user-images.githubusercontent.com/129444082/234628993-fad7fa73-bcd6-466f-9a47-e026f54696ec.png">
 
 # Question 1
 
@@ -59,4 +46,12 @@ How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 
 # Manipulations
 No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany).
+
+# Sources
+
+Chestney, N. (2018, March 22). Global carbon emissions hit record high in 2017. Reuters. Retrieved April 26, 2023, from https://www.reuters.com/article/us-energy-carbon-iea/global-carbon-emissions-hit-record-high-in-2017-idUSKBN1GY0RB
+
+Guo, X., Xiao, B., & Song, L. (2022, July 29). What cause the decline of energy intensity in China's cities? A comprehensive panel-data analysis. ScienceDirect. Retrieved April 26, 2023, from https://www.sciencedirect.com/science/article/pii/S095965261932030X#sec4
+
+Lai, O. (2021, September 17). Every G20 Country Is Failing to Meet Paris Agreement On Climate Change. Earth.Org. Retrieved April 26, 2023, from https://earth.org/every-g20-country-is-failing-to-meet-paris-agreement-on-climate-change/
 
